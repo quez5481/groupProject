@@ -3,6 +3,7 @@
     if(!isset($_SESSION['cart'])){
         $_SESSION['cart'] = array();
     }
+    // hi
     
     include 'dbConnection.php';
     
